@@ -1,0 +1,15 @@
+*
+
+!.gitignore
+
+!*/
+
+!*.md
+!*.sh
+
+!CMakeLists.txt
+CMakeFiles
+
+!*.cpp
+!*.hpp
+!*.h
